@@ -3,7 +3,7 @@
 PoseSnap is a lightweight, browser-based application that detects and displays real-time human body poses using your webcam feed and the powerful [ml5.js](https://ml5js.org) PoseNet model.
  
 ## 🎯 Features
-
+  
 - 🔍 Real-time pose detection (17 body keypoints)
 - 🧠 Powered by PoseNet via ml5.js
 - 🎥 Webcam video capture
